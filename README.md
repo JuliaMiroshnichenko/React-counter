@@ -1,2 +1,3 @@
 # React-counter
-React-counter
+
+## Счётчик на ReactJS
