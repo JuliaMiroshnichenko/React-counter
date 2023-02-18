@@ -1,3 +1,8 @@
-# React-counter
 
-## Счётчик на ReactJS
+
+## ReactJS Счётчик / React-counter
+
+1. 
+2.
+3.
+
